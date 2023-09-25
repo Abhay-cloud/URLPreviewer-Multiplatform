@@ -1,4 +1,10 @@
-# Compose Multiplatform Application
+# URLPreviewer-Multiplatform
+
+URLPreviewer-Multiplatform is a lightweight Compose-based single-page application for fetching and displaying Open Graph (OG) title, description, and images from URLs. It's a fun weekend project exploring multiplatform development.
+
+![App Preview](images/img.png)
+
+Feel free to explore, modify, or use this project as a starting point for your own experiments and learning.
 
 ## Before running!
  - check your system with [KDoctor](https://github.com/Kotlin/kdoctor)
@@ -25,3 +31,16 @@ To run the application on iPhone device/simulator:
 ### Browser
 Run the browser application: `./gradlew :composeApp:jsBrowserDevelopmentRun`
 
+**Clone this repository:**
+
+```shell
+git clone https://github.com/Abhay-cloud/URLPreviewer-Multiplatform.git
+```
+
+## License
+
+This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+If you have any questions or suggestions, please feel free to reach out to me via [GitHub Issues](https://github.com/Abhay-cloud/URLPreviewer-Multiplatform/issues)
