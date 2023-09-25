@@ -1,4 +1,4 @@
-# URLPreviewer-Multiplatform
+# URLPreviewer-Multiplatform 🚀
 
 URLPreviewer-Multiplatform is a lightweight Compose-based single-page application for fetching and displaying Open Graph (OG) title, description, and images from URLs. It's a fun weekend project exploring multiplatform development.
 
@@ -40,6 +40,9 @@ git clone https://github.com/Abhay-cloud/URLPreviewer-Multiplatform.git
 ## License
 
 This project is open-source and available under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Screenshot
+![App Preview](images/img_1.png)
 
 ## Contact
 
